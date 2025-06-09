@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "amirtech.dpdns.org"; // Ganti dengan domain utama kalian
+const rootDomain = "dpdns.org"; // Ganti dengan domain utama kalian
 const serviceName = "amirtech"; // Ganti dengan nama workers kalian
 const apiKey = "Y8bA0DkFOWIneCZpxazftmuIlLGij9Nk8KQknAJL"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "insomeone1@gmail.com"; // Ganti dengan email yang kalian gunakan
