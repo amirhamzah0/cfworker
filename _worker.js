@@ -5,7 +5,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "amirtech.dpdns.org"; // Ganti dengan domain utama kalian
 const serviceName = "testcfworker"; // Ganti dengan nama workers kalian
-const apiKey = "63fbe609b0c84744bbefaa684e6867d8b66cc"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "Y8bA0DkFOWIneCZpxazftmuIlLGij9Nk8KQknAJL"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "insomeone1@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "c35ad10c7b0294468145df8e07e9689e"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "edade4c1a5852bab07073173e7697fe2"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
